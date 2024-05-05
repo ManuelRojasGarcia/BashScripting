@@ -1,7 +1,5 @@
 #!/bin/bash
-#Nombre y apellidos del alumno: Manuel Rojas Garcia
-#Usuario de la UOC del alumno: mrojasgar
-#Fecha:30/12/2023
+
 
 #CODIGOS PROVISIONAL
 
