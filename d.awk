@@ -1,9 +1,5 @@
 #! /usr/bin/awk -f
-#Nombre y apellidos del alumno: Manuel Rojas Garcia
-#Usuario de la UOC del alumno: mrojasgar
-#Fecha: 31/12/2023
-#Objetivo: Procesar datos académicos de estudiantes, específicamente las notas de los estudiantes por género y año. Adicionalmente ver el ratio de por genero por año para ver el ratio hombre/mujer. Todo detallado y que incluyan estadísticas y gráficos.
-#Nombre y tipo de los campos de entrada:
+
 #id - string
 #semester - date
 #gender - string
