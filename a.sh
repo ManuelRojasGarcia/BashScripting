@@ -4,9 +4,7 @@
 # CODIGO INICIAL
 
 #!/bin/bash
-# Nombre y apellidos del alumno: MANUEL ROJAS GARCIA
-# Usuario de la UOC del alumno: mrorjasgar
-# Fecha: 21/12/2023
+
 
 # Comprobar si se proporcionó el número correctos de argumentos (-ne).
 # https://stackoverflow.com/questions/18568706/check-number-of-arguments-passed-to-a-bash-script
