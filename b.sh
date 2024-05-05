@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Nombre y apellidos del alumno: MANUEL ROJAS GARCIA
-# Usuario de la UOC del alumno: mrojasgar
-# Fecha: 26/12/2023
-
 # Validación de argumentos
 if [ $# -lt 2 ]; then
     echo "Error: mandatory parameter not found"
