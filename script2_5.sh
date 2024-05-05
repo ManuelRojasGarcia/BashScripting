@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# Student's name and last name: Manuel Rojas García
-
-# Student's UOC username: mrojasgar
-
-# Date: 29/10/2023
 
 # Script objectives:Loop through the 'numbers' array using a 'for' loop 
 # and display, for each item, its absolute value and its percentage relative 
